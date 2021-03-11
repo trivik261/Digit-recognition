@@ -1,7 +1,6 @@
 # Digit-recognition
 Implementing a neural network to classify MNIST digits.
-
-         
+    
 Setup:
 
 Used Python's NumPy numerical library for handling arrays and array operations; used matplotlib for producing figures and plots.
